@@ -1,0 +1,17 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+}
+
+.container {
+
+    border: 1px solid red;
+    background-color: black;
+}
+
+.text {
+    color: aliceblue;
+    font-size: 2rem;
+
+}
